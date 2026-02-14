@@ -1,0 +1,146 @@
+🛒 Amazon Sales Analytics Dashboard (Power BI)
+📌 Project Overview
+
+This project is an interactive Amazon Sales Analytics Dashboard built using Microsoft Power BI.
+
+The dashboard provides a detailed analysis of sales performance, courier status, fulfillment types, product categories, sizes, and state-wise shipment distribution.
+
+It helps businesses monitor operational efficiency and identify sales trends using data-driven insights.
+
+🎯 Key Objectives
+
+Analyze total sales revenue
+
+Track courier delivery performance
+
+Monitor top-performing product categories
+
+Compare fulfillment types (Amazon vs Merchant)
+
+Evaluate product size distribution
+
+Analyze state-wise shipping trends
+
+📊 Dashboard Highlights
+🔹 1. KPI Card
+
+Total Sales Amount: 259K
+
+Dynamic Date Range Filter
+
+🔹 2. Courier Status Analysis
+
+Delivered
+
+Out for Delivery
+
+In Transit
+
+Exception
+
+Pie chart visualization helps understand delivery efficiency.
+
+🔹 3. Top 5 Product Categories
+
+Beauty
+
+Electronics
+
+Books
+
+Home
+
+Clothing
+
+Bar chart comparison to identify best-selling categories.
+
+🔹 4. Fulfillment Analysis
+
+Merchant Fulfillment
+
+Amazon Fulfillment
+
+Helps analyze operational distribution.
+
+🔹 5. Size Distribution
+
+XXL
+
+L
+
+S
+
+XL
+
+M
+
+Useful for inventory planning and demand forecasting.
+
+🔹 6. State-wise Shipment Analysis
+
+Karnataka
+
+Telangana
+
+Delhi
+
+Tamil Nadu
+
+Maharashtra
+
+West Bengal
+
+Helps identify high-demand regions.
+
+🛠 Tools & Technologies Used
+
+Microsoft Power BI
+
+Data Modeling
+
+DAX Functions
+
+Data Visualization
+
+Interactive Filters & Slicers
+
+📈 Key Insights
+
+Majority orders are successfully delivered.
+
+Beauty and Electronics are top-performing categories.
+
+Amazon fulfillment handles a large portion of orders.
+
+Karnataka and Telangana show high shipment volumes.
+
+Larger sizes (XXL, L) show significant demand.
+
+💡 Skills Demonstrated
+
+Sales Data Analysis
+
+KPI Dashboard Creation
+
+DAX Measures
+
+Business Intelligence Reporting
+
+Data Visualization Design
+
+Trend & Performance Analysis
+
+🚀 How to Use
+
+Download the .pbit file
+
+Open using Microsoft Power BI Desktop
+
+Refresh data source
+
+Interact using filters and slicers
+
+📂 Project Type
+
+Sales Analytics | Business Intelligence | Data Visualization
+
